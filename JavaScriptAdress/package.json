@@ -1,0 +1,19 @@
+{
+  "name": "javascript-assignments",
+  "version": "1.0.0",
+  "description": "- [address book - JavaScript Assignment](address-book-javascript-assignment.md)",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.competa.com/dgolverdingen12/javascript-assignments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
