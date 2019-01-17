@@ -26,7 +26,7 @@ fetch(url)
 			<p class="degree degree--fifth">${parseInt(weather.main.temp + 2)}</p>
 		</div>`
 
-		switch (data.weather[1].main) {
+		switch (data.weather[0].main) {
 			case 'Rain':
 				document.getElementsByClassName('weatherApp__image')[0].classList.add('rain');
 				break;
